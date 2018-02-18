@@ -1,0 +1,22 @@
+.spinner-container img {
+    width: 100%;
+    max-width: 135px;
+    margin: 100px auto;
+}
+
+.container {
+    width: 65%;
+}
+
+.alerts-container .alert {
+    display: none;
+}
+
+h2 {
+    margin: 25px auto;
+    font-size: 2.5em;
+}
+
+thead {
+    background-color: #dfe5e7;
+}
